@@ -1,16 +1,55 @@
-## Hi there 👋
+[README_profile.3.md](https://github.com/user-attachments/files/26474467/README_profile.3.md)
+# Andrezza Aguiar
 
-<!--
-**AndrezzaPatatasRicardo/AndrezzaPatatasRicardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **UFRGS** · Canoas, RS — Brazil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I'm a Computer Science student passionate about Artificial Intelligence, Software Development, and everything that sits at the intersection of science and technology. I'm also an aviation and space enthusiast — always curious about how things work and how they can be improved.
+
+I enjoy working in teams, communicating clearly, and I'm always looking for opportunities to learn and grow. I believe technology has the power to transform lives, and I want to be part of that transformation.
+
+- 🎓 Computer Science @ UFRGS
+- 🤖 Interested in AI, Machine Learning and intelligent systems
+- ✈️ Aviation & Space enthusiast
+- 💻 Focused on Software Development
+- 🌍 Intermediate English — always improving
+
+---
+
+### Tech Stack
+
+![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-555555?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### Projects
+
+**[Quiz — Quem Sabe Compila?](https://github.com/AndrezzaPatatasRicardo/projetos-C)**
+Competitive quiz game in C with easy, intermediate and advanced difficulty levels. Players earn points by answering questions on various topics including technology and programming.
+`C` `File Handling` `Pointers` `Strings`
+
+**[Medical Triage System](https://github.com/AndrezzaPatatasRicardo/projetos-C)**
+A triage system that evaluates patient symptoms and classifies urgency levels — recommending medications, exams, or emergency care based on the severity of each case.
+`C` `Structs` `Logic` `Conditionals`
+
+---
+
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrezzaPatatasRicardo&show_icons=true&theme=default&hide_border=true&title_color=555555&icon_color=555555&text_color=333333)
+
+---
+
+### Contact
+[![Gmail](https://img.shields.io/badge/Gmail-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:andrezzaaguiar410@gmail.com)
+
+---
+
+*"The science of today is the technology of tomorrow."*
