@@ -1,6 +1,4 @@
-[README_profile.3.md](https://github.com/user-attachments/files/26474467/README_profile.3.md)
-# Andrezza Aguiar
-
+# Andrezza Aguiar Patatas Ricardo
 Computer Science student at **UFRGS** · Canoas, RS — Brazil
 
 ---
@@ -13,9 +11,9 @@ I enjoy working in teams, communicating clearly, and I'm always looking for oppo
 
 - 🎓 Computer Science @ UFRGS
 - 🤖 Interested in AI, Machine Learning and intelligent systems
-- ✈️ Aviation & Space enthusiast
+- ✈️ Aviation & Space enthusiast — member of **Pampa Aerodesign** team
 - 💻 Focused on Software Development
-- 🌍 Intermediate English — always improving
+- 🌍 English — Intermediate (speaking & listening) | Advanced (reading)
 
 ---
 
@@ -24,8 +22,12 @@ I enjoy working in teams, communicating clearly, and I'm always looking for oppo
 ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-555555?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-555555?style=flat-square&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-555555?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-555555?style=flat-square&logo=powerbi&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-555555?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -41,6 +43,25 @@ A triage system that evaluates patient symptoms and classifies urgency levels �
 
 ---
 
+### Experience & Involvement
+
+**Pampa Aerodesign — UFRGS** *(current)*
+Active member of the aerodesign team, participating in the development and design of unmanned aerial vehicles.
+
+**Student Monitoring — UFRGS** *(current)*
+Academic support monitor, helping students with their development and learning process.
+
+**AI for Neurodivergent Education** *(completed)*
+Participated in an extension project that trained teachers to use Artificial Intelligence tools for teaching neurodivergent children.
+
+---
+
+### Certifications
+
+- 🔐 Cybersecurity — Universidade de São Paulo (USP)
+
+---
+
 ### Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrezzaPatatasRicardo&show_icons=true&theme=default&hide_border=true&title_color=555555&icon_color=555555&text_color=333333)
@@ -48,8 +69,7 @@ A triage system that evaluates patient symptoms and classifies urgency levels �
 ---
 
 ### Contact
+
 [![Gmail](https://img.shields.io/badge/Gmail-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:andrezzaaguiar410@gmail.com)
-
----
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrezza-aguiar-patatas-ricardo-093a08399/)
 *"The science of today is the technology of tomorrow."*
