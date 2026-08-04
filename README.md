@@ -12,7 +12,7 @@ I enjoy working in teams, communicating clearly, and I'm always looking for oppo
 - 🎓 Computer Science @ UFRGS
 - 🤖 Interested in AI, Machine Learning and intelligent systems
 - ✈️ Aviation & Space enthusiast — member of **Pampa Aerodesign** team
-- 💻 Focused on Software Development
+- 💻 Focused on Software Development and Data Science
 - 🌍 English — Intermediate (speaking & listening) | Advanced (reading)
 
 ---
@@ -51,6 +51,9 @@ Academic support monitor, helping students with their development and learning p
 
 **AI for Neurodivergent Education** *(completed)*
 Participated in an extension project that trained teachers to use Artificial Intelligence tools for teaching neurodivergent children.
+
+**Cessna 172 Onboard Computer System (C Language)
+Developing a simplified onboard computer system for the Cessna 170 in C, simulating aircraft parameters such as altitude, airspeed, fuel level, engine RPM, oil pressure, and warning systems. *(current)*
 
 ---
 
