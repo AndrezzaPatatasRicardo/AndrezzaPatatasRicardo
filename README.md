@@ -53,7 +53,7 @@ Academic support monitor, helping students with their development and learning p
 Participated in an extension project that trained teachers to use Artificial Intelligence tools for teaching neurodivergent children.
 
 **Cessna 172 Onboard Computer System (C Language)
-Developing a simplified onboard computer system for the Cessna 170 in C, simulating aircraft parameters such as altitude, airspeed, fuel level, engine RPM, oil pressure, and warning systems. *(current)*
+Developing a simplified onboard computer system for the Cessna 172 in C, simulating aircraft parameters such as altitude, airspeed, fuel level, engine RPM, oil pressure, and warning systems. *(current)*
 
 ---
 
