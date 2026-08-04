@@ -22,11 +22,9 @@ I enjoy working in teams, communicating clearly, and I'm always looking for oppo
 ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-555555?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-555555?style=flat-square&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-555555?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-555555?style=flat-square&logo=powerbi&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-555555?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -58,8 +56,8 @@ Participated in an extension project that trained teachers to use Artificial Int
 
 ### Certifications
 
-- 🔐 Cybersecurity — Universidade de São Paulo (USP)
-
+- Cybersecurity — Universidade de São Paulo (USP)
+- Data Science - Bradesco
 ---
 
 ### Stats
