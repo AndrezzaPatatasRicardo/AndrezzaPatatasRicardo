@@ -10,7 +10,7 @@ I'm a Computer Science student passionate about Artificial Intelligence, Softwar
 I enjoy working in teams, communicating clearly, and I'm always looking for opportunities to learn and grow. I believe technology has the power to transform lives, and I want to be part of that transformation.
 
 - 🎓 Computer Science @ UFRGS
-- 🤖 Interested in AI, Machine Learning and intelligent systems
+- 🤖 Interested in AI, Machine Learning , intelligent systems and critical systems
 - ✈️ Aviation & Space enthusiast — member of **Pampa Aerodesign** team
 - 💻 Focused on Software Development and Data Science
 - 🌍 English — Intermediate (speaking & listening) | Advanced (reading)
